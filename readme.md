@@ -1,0 +1,1 @@
+I have completed the JavaScript day 6 task and Kindly see the console for results.
